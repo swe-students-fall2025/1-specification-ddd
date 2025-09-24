@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 Conor Tiernan - https://github.com/ct-04
 YI-KAI HUANG - https://github.com/DplayerXAX
+Grace He - https://github.com/gracehe04
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
