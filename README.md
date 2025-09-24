@@ -30,7 +30,7 @@ Georgia McNevin - Trinity College Dublin Student
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our vision is to simplify and accelerate the job search process for college students and entry-level professionals by making applications as quick, personalized, and engaging as swiping.
 
 ## User Requirements
 
