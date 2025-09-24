@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 Conor Tiernan - https://github.com/ct-04
-
+YI-KAI HUANG - https://github.com/DplayerXAX
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
@@ -23,7 +23,6 @@ Georgia McNevin - Trinity College Dublin Student
     The job application process is too slow for how many jobs you get rejected by.
     Companies ask too many questions to get instantly rejected by them.
     It feels like I am filling in the same information on repeat.
-
 
 
 
@@ -45,6 +44,14 @@ See instructions. Delete this line and place a list of your User Stories here.
 - As a student looking for an internship, I want a way to save interesting opportunities in one place.
 
 - As a software engineer looking for opportunities, I want a way to track my job applications in one place.
+
+- As a junior studying information systems bachelors, I want to be able to rank the job openings recommendations for me based on the most recent open one, so that I can apply as soon as possible to job openings.
+
+- As a game design bachelors, I want to be able to find job openings based on the detail of projects the company has, so that I can apply the most appropriate company 
+
+- As a computer science bachelor student, I want to be able to filter job openings by required programming languages, so that I can quickly find positions that match my technical skills.
+
+- As a business administration bachelor student, I want to be able to view job openings based on company culture and work-life balance information, so that I can choose opportunities that fit my career goals and lifestyle.
 
 ## Activity Diagrams
 
