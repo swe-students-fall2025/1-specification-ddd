@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 Conor Tiernan - https://github.com/ct-04
+Coco Liu - https://github.com/yiminliu2004
 YI-KAI HUANG - https://github.com/DplayerXAX
 Grace He - https://github.com/gracehe04
 Sean Tang - https://github.com/plant445
@@ -39,11 +40,9 @@ Richard Yuan - NYU Student
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our vision is to simplify and accelerate the job search process for college students and entry-level professionals by making applications as quick, personalized, and engaging as swiping.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
 
 - As a computer science major, I want an easy-to-use job application app so that I can speed up my job application process.
 
@@ -54,6 +53,32 @@ See instructions. Delete this line and place a list of your User Stories here.
 - As a student looking for an internship, I want a way to save interesting opportunities in one place.
 
 - As a software engineer looking for opportunities, I want a way to track my job applications in one place.
+  
+- As a design student, I want to filter job openings by location and whether they are remote/hybrid, so that i can find opportunities that fit my living situation.
+
+- As an international student, i want to filter jobs that sponsor visas, so that i don’t wast time applying to position that won’t sponsor me.
+
+- As a student new to job hunting, I want AI-generated suggestions for improving my resume, so that I can submit stronger applications.
+
+- As a student, I want to see what companies my peers are applying to, so I can discover opportunities I may have missed.
+
+- As a student, I want to see alumni or peer reviews of companies, so that I can better understand the culture and expectations.
+
+- As a student, I want reminders for upcoming deadlines or interviews, so that I don’t miss important opportunities.
+
+- As a student, I want to apply to multiple job postings at once, so that I can maximize my chances efficiently.
+
+- As a computer science student, I want to upload and reuse multiple versions of my resume (e.g., frontend, backend), so that I can tailor my applications quickly.
+  
+- As a student, I want tips for interview prep based on the job description, so I feel more confident and know more about the responsibility of the job that I’m applying.
+  
+- As a student applying to jobs, I want to receive updates when a company views or progresses my application, so that I don’t feel like my application has disappeared into a black hole.
+
+- As a student preparing for applications, I want the app to suggest networking events or career fairs related to my field, so that I can expand my connections beyond just online applications.
+  
+- As a computer science student, I want to highlight class or personal projects that are relevant to the job description, so that my applications stand out even with limited work experience.
+  
+- As a computer science student, I want integrated coding challenge practice (like frequently used LeetCode or HackerRank questions for this company) tied to job postings, so that I can prepare for interviews in context.
 
 - As a junior studying information systems bachelors, I want to be able to rank the job openings recommendations for me based on the most recent open one, so that I can apply as soon as possible to job openings.
 
