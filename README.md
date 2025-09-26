@@ -6,11 +6,12 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
-Conor Tiernan - https://github.com/ct-04
-Coco Liu - https://github.com/yiminliu2004
-YI-KAI HUANG - https://github.com/DplayerXAX
-Grace He - https://github.com/gracehe04
-Sean Tang - https://github.com/plant445
+- Conor Tiernan - https://github.com/ct-04
+- Coco Liu - https://github.com/yiminliu2004
+- YI-KAI HUANG - https://github.com/DplayerXAX
+- Grace He - https://github.com/gracehe04
+- Sean Tang - https://github.com/plant445
+  
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
