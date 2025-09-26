@@ -106,7 +106,9 @@ Our vision is to simplify and accelerate the job search process for college stud
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+As a college student recruiting, I want to be able to quickly apply to a job with a single action such as swiping right on a job.
+
+https://www.figma.com/board/vguORASFff2kRViQYhKAlz/Untitled?node-id=0-1&t=ty0bu1VZbPl4RVpA-1
 
 ## Clickable Prototype
 
