@@ -102,4 +102,4 @@ https://www.figma.com/board/vguORASFff2kRViQYhKAlz/Untitled?node-id=0-1&t=ty0bu1
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/yeaOG6HaQxKd46CXUw88OH/DDD-Project-1?node-id=0-1&t=IC2RygVzgNSjsucB-0
