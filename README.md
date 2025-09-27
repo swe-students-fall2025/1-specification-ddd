@@ -96,9 +96,13 @@ Our vision is to simplify and accelerate the job search process for college stud
 
 ## Activity Diagrams
 
-As a college student recruiting, I want to be able to quickly apply to a job with a single action such as swiping right on a job.
+- As a college student recruiting, I want to be able to quickly apply to a job with a single action such as swiping right on a job.
 
 https://www.figma.com/board/vguORASFff2kRViQYhKAlz/Untitled?node-id=0-1&t=ty0bu1VZbPl4RVpA-1
+
+- As a computer science student, I want to upload and reuse multiple versions of my resume (e.g., frontend, backend), so that I can tailor my applications quickly. 
+
+https://www.figma.com/board/gsrlt3KbFeSYiVNModYtUA/UML-2?node-id=0-1&t=o7P1EjVBEuMrXGRr-1
 
 ## Clickable Prototype
 
