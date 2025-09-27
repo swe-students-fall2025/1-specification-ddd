@@ -67,7 +67,7 @@ Our vision is to simplify and accelerate the job search process for college stud
 - As a computer science student, I want to upload and reuse multiple versions of my resume (e.g., frontend, backend), so that I can tailor my applications quickly.  
 - As a college student recruiting, I want to be able to quickly apply to a job with a single action such as swiping right on a job.  
 - As a busy college student, I want to be able to to filter out applications that have short answer questions.  
-- As a busy student, I want to the process to feel more efficient and rewarding, rather than long and tedious.
+- As a busy student, I want to the process to feel more efficient and rewarding, rather than long and tedious. 
 
 ---
 
@@ -87,7 +87,7 @@ Our vision is to simplify and accelerate the job search process for college stud
 - As a student, I want tips for interview prep based on the job description, so I feel more confident and know more about the responsibility of the job that I’m applying.  
 - As a student preparing for applications, I want the app to suggest networking events or career fairs related to my field, so that I can expand my connections beyond just online applications.  
 - As a computer science student, I want integrated coding challenge practice (like frequently used LeetCode or HackerRank questions for this company) tied to job postings, so that I can prepare for interviews in context.  
-- As a student applying to jobs, I want AI-generated suggestions for written portions of an application to save more time.
+- As a student applying to jobs, I want AI-generated suggestions for written portions of an application to save more time. 
 
 ---
 
